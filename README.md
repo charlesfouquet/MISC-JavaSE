@@ -2,7 +2,7 @@
 <table>
     <tbody>
         <tr valign="top">
-            <td width="80px" align="center">
+            <td width="90px" align="center">
             <span><strong>Java SE</strong></span><br>
             <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
             </td>
