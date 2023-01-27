@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+/Users/charlesonpro/Desktop/GIT/_Depots perso/MISC-JavaSE/.metadata/.plugins/org.eclipse.jdt.core
+3939774360.index
+3914614695.index
+1865797976.index
